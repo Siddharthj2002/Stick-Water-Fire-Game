@@ -30,6 +30,8 @@ The game program called Stick, Water, Fire - is a version of the game Rock, Pape
   
   
 ● Project Background
+
+
   The goal is to make a fun and interactive game for users. The user will be able to enter their choice of Stick, Water, or Fire. The computer will also make a  	
   choice, and the winner will be chosen based on the following three rules: 
   
