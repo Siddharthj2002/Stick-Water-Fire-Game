@@ -1,4 +1,4 @@
-# Stick-Water_Fire_Game
+# Stick-Water-Fire_Game
 
 
 ● Project Description:
